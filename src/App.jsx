@@ -1,13 +1,13 @@
 import React from 'react'
+import Tea from './a'
 
 const App = () => {
   return (
-    <div>
+    <>
+      <Tea/>
 
-      <h1> Learning ReactJs || Arbeen </h1>
-      
-    </div>
+    </>
   )
 }
 
-export default App
+export default App;
